@@ -1,0 +1,2 @@
+# Kurs.valut
+Kurs.valut
